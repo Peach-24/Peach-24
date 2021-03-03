@@ -3,9 +3,9 @@
 I'm a former journalist who has swapped writing stories for writing code. I'm currently looking for a junior software developer role, graduate scheme, or apprenticeship. 
 
 ## Some of my favourite projects (pinned below) 🚀
-+ Album Club - A responsive React-based web app that my friends and I use for our weekly album listening club. We use the app to suggest albums and write reviews, in a bid to vary our own music digest. Made use of Firebase Firestore to store data. 
-+ Zeal - A social photography challenge app built using React Native and Firebase, that three others and I worked on during the project phase of the Northcoders bootcamp.
-+ NBA GM Simulator - Pair-programmed a fun desktop game that challenges the user to build a roster of basketball players without breaking the team's salary cap. Built as part of learning how to use React. 
++ **Album Club** - A responsive React-based web app that my friends and I use for our weekly album listening club. We use the app to suggest albums and write reviews, in a bid to vary our own music digest. Made use of Firebase Firestore to store data. 
++ **Zeal** - A social photography challenge app built using React Native and Firebase, that three others and I worked on during the project phase of the Northcoders bootcamp.
++ **NBA GM Simulator** - Pair-programmed a fun desktop game that challenges the user to build a roster of basketball players without breaking the team's salary cap. Built as part of learning how to use React. 
 
 ## My developer journey 👨‍💻
 + Became interested in development through interviewing business leaders in Manchester's tech scene, and realised how important digital transformation is.
