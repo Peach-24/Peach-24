@@ -1,4 +1,4 @@
-# Hello, I'm Josh (he/him) 👋 
+# Hello, I'm Josh 👋 
 
 I'm a former journalist who has swapped writing stories for writing code. I'm currently looking for a junior software developer role, graduate scheme, or apprenticeship. 
 
