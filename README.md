@@ -1,7 +1,6 @@
 # Hello, I'm Josh (he/him) 👋 
 
-I'm a former journalist who has swapped writing stories for writing code. After always taking an interest in problems, to reporting on them, I now want to play a fundamental role in solving them by creating digital products through software development.
-+ I'm currently looking for a junior software developer role, graduate scheme, or apprenticeship. 
+I'm a former journalist who has swapped writing stories for writing code. I'm currently looking for a junior software developer role, graduate scheme, or apprenticeship. 
 
 ## Some of my favourite projects (pinned below) 🚀
 + Album Club - A responsive React-based web app that my friends and I use for our weekly album listening club. We use the app to suggest albums and write reviews, in a bid to vary our own music digest. Made use of Firebase Firestore to store data. 
@@ -25,7 +24,7 @@ I'm a former journalist who has swapped writing stories for writing code. After 
 
 ___
 
-**🌱 Areas of current learning:**
+**🌱  Areas of current learning:**
 + AWS Cloud Practitioner syllabus
 + GraphQL
 + Python
