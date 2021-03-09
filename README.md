@@ -26,6 +26,7 @@ ___
 
 **🌱  Areas of current learning:**
 + AWS Cloud Practitioner syllabus
++ Java
 + TypeScript
 + GraphQL
 + Python
