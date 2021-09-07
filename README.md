@@ -1,6 +1,6 @@
 # Hello, I'm Josh 👋 
 
-I'm a former journalist who has swapped writing stories for writing code. I'm currently working as a Developer for an e-commerce company called Naturecan, where I help create enjoyable digital experiences for customers all over the world. 
+I'm a former journalist who has swapped writing stories for writing code. I'm currently a Graduate Software Engineer at BJSS, a large international and award-winning tech consultancy. 
 
 ## Some of my favourite projects (pinned below) 🚀
 + **Album Club** - A responsive React-based web app that my friends and I use for our weekly album listening club. We use the app to suggest albums and write reviews, in a bid to vary our own music digest. Made use of Firebase Firestore to store data. 
@@ -12,6 +12,7 @@ I'm a former journalist who has swapped writing stories for writing code. I'm cu
 + Began learning HTML, CSS, and JavaScript in my own time, and quickly grew to love it.
 + Handed in my notice and started the Northcoders intensive software development bootcamp in October 2020. 
 + Gained experience in JavaScript, Node JS, HTML, CSS, Jest, React, React Native, Express, Axios, API creation and integration, MVC modelling, PostgreSQL, and Firebase.
++ Worked for 4 months on the dev team of a fast-growing e-commerce business, using Shopify, Wordpress, and JS.
 
 ## Prior to becoming a developer 📰
 + Worked on the editorial team at Prolific North, covering all biggest tech, e-commerce, and marketing stories in the North of England.
