@@ -1,33 +1,80 @@
-# Hello, I'm Josh 👋 
+<h1 align="center">Josh Peachey 🍑</h1>
+<h3 align="center">Developer, former Journalist</h3>
 
-I'm a former journalist who has swapped writing stories for writing code. I'm currently a Graduate Software Engineer at BJSS, a large international and award-winning tech consultancy. 
+---
+### 👨‍💻 Software Engineer @ [BJSS](https://www.bjss.com/about-us) 
+##### _September 2021 - Present_
 
-## Some of my favourite projects (pinned below) 🚀
-+ **Album Club** - A responsive React-based web app that my friends and I use for our weekly album listening club. We use the app to suggest albums and write reviews, in a bid to vary our own music digest. Made use of Firebase Firestore to store data. 
-+ **Zeal** - A social photography challenge app built using React Native and Firebase, that three others and I worked on during the project phase of the Northcoders bootcamp.
-+ **NBA GM Simulator** - Pair-programmed a fun desktop game that challenges the user to build a roster of basketball players without breaking the team's salary cap. Built as part of learning how to use React. 
+-----------------------------
 
-## My developer journey 👨‍💻
-+ Became interested in development through interviewing business leaders in Manchester's tech scene, and realised how important digital transformation is.
-+ Began learning HTML, CSS, and JavaScript in my own time, and quickly grew to love it.
-+ Handed in my notice and started the Northcoders intensive software development bootcamp in October 2020. 
-+ Gained experience in JavaScript, Node JS, HTML, CSS, Jest, React, React Native, Express, Axios, API creation and integration, MVC modelling, PostgreSQL, and Firebase.
-+ Worked for 4 months on the dev team of a fast-growing e-commerce business, using Shopify, Wordpress, and JS.
+<h4>Previous experience...</h4>
+
+##### 🌿 Naturecan
+<ul>
+  <li>February 2021 - September 2021</li> 
+  <li>UK-based global eccommerce site specialising in Natural health and wellness products.</li>
+  <li>JS, Shopify, Wordpress</li>
+</ul>
+
+##### 🤖 Northcoders
+<ul>
+  <li>October 2020 - January 2021</li> 
+  <li>12 week award-winning full-stack development bootcamp with a range of technologies covered, theory, best practices, and project work.</li>
+  <li>JS, React, Jest, PostgreSQL, Firebase</li>
+</ul>
+
+--- 
+
+## 2025 goal
+🌱 My goal for 2025 is... _watch this space_
+
+<details>
+  <summary>Progress so far 👇</summary>
+
+  <details>
+    <summary>...</summary>
+  </details>
+
+  <details>
+    <summary>...</summary>
+  </details>
+
+  <details>
+    <summary>...</summary>
+  </details>
+
+  <details>
+    <summary>...</summary>
+  </details>
+  
+</details>
+
+<!-- <details>
+    <summary>
+        <h3 align="left">Languages and Tools:</h3>
+    </summary>
+    <br/>
+    <p align="left">
+        <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40" /> </a>
+        <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40" /> </a>
+        <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40" /> </a>
+        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
+    </p>
+</details> -->
+
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/josh-peachey-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://app.daily.dev/peach_24" target="blank"><img align="center" src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png" alt="daily.dev" height="30" width="30" /></a>
+</p>
+
 
 ## Prior to becoming a developer 📰
 + Worked on the editorial team at Prolific North, covering all biggest tech, e-commerce, and marketing stories in the North of England.
 + Helped organise, promote, and deliver Manchester's first ever Digital City Festival in 2019.
-
-## My qualifications 📚
-+ 1st class degree in Journalism Studies from the University of Sheffield
-+ Completed the Northcoders 13-week developer pathway bootcamp
-+ A Levels: AAB (IT, Spanish, English)
++ Became interested in development through interviewing business leaders in Manchester's tech scene, and realised how important digital transformation is.
 
 ___
 
-**🌱  Areas of current learning:**
-+ AWS Cloud Practitioner syllabus
-+ Java
-+ TypeScript
-+ GraphQL
-+ Python
