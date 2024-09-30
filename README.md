@@ -8,6 +8,7 @@
 <p>For the past three years, I've worked on a team that supports critical national infrastructure in the healthcare space.</p>
 <p>Responsabilities include: Feature development, architectural investigations, bug-fixing, integrating third parties, solutions assurance.</p>
 <p>Technologies include: Java, Python, JS, Azure, OpenID Connect, OAuth2.0, Jenkins, Splunk, Karate, Docker</p>
+
 -----------------------------
 
 <h4>Previous experience...</h4>
