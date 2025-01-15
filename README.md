@@ -5,7 +5,7 @@
 ### 👨‍💻 Software Engineer @ [BJSS](https://www.bjss.com/about-us) 
 ##### _September 2021 - Present_
 
-<p>For the past three years, I've worked on a team that supports critical national infrastructure in the healthcare space.</p>
+<p>For the past four years, I've worked on a team that supports critical national infrastructure in the healthcare space.</p>
 <p>Responsabilities include: Feature development, architectural investigations, bug-fixing, integrating third parties, solutions assurance.</p>
 <p>Technologies include: Java, Python, JS, Azure, OpenID Connect, OAuth2.0, Jenkins, Splunk, Karate, Docker</p>
 
@@ -28,30 +28,6 @@
 </ul>
 
 --- 
-
-## 2025 goal
-🌱 My goal for 2025 is... _watch this space_
-
-<details>
-  <summary>Progress so far 👇</summary>
-
-  <details>
-    <summary>...</summary>
-  </details>
-
-  <details>
-    <summary>...</summary>
-  </details>
-
-  <details>
-    <summary>...</summary>
-  </details>
-
-  <details>
-    <summary>...</summary>
-  </details>
-  
-</details>
 
 <!-- <details>
     <summary>
